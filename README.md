@@ -6,3 +6,9 @@ conda env create -f environment.yaml
 ```
 python yt_download
 ```
+
+### ejecutar el programa
+```
+python main.py
+```
+
